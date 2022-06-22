@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/br-ds.figma-tokens-l4pw3oh8",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve XRny7P02n6pD5pDuHfX4 --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
