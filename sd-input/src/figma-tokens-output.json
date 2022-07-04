@@ -6440,7 +6440,7 @@
       }
     },
     "tighter": {
-      "value": "-5%",
+      "value": "-10%",
       "type": "letterSpacing"
     },
     "tight": {
